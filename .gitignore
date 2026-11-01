@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+*.exe
+*.pdb
+**/txt/
+**/data.json*
+**/test-data*/
